@@ -1,9 +1,9 @@
 {
-    "name": "IBRAHIM-TECH Pairing",
-    "description": "IBRAHIM-TECH WA bot, Created by France King",
-    "logo": "https://telegra.ph/file/06c29434ea71a8ce855a1.jpg",
-    "repository": "https://github.com/ibrahimaitech/Ibrahim-tech-pair",
-    "keywords": ["IBRAHIMTECH"],
+    "name": "KEITH-TECH Pairing",
+    "description": "KEITH-TECH WA bot, Created by France King",
+    "logo": "https://telegra.ph/file/6f19f7e9f2acc94a44658.jpg",
+    "repository": "https://github.com/Keithkeizzah/hunchoV",
+    "keywords": ["KEITHTECH"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
